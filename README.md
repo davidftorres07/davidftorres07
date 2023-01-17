@@ -5,7 +5,7 @@ I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Bac
 - 🌊 Passionate about the sea.
 - ⛰️ Love adventure and explore different places and cultures. 
 - 🔥 Like to cook and hangout with friends.
-- 📎 My resume [here](https://drive.google.com/file/d/1pCU-dJZ1IihiJWtB9k3OECSoS77xeBtu/view?usp=share_link).
+- 📎 My updated resume [here](https://drive.google.com/file/d/1pCU-dJZ1IihiJWtB9k3OECSoS77xeBtu/view?usp=share_link).
 
 #### 🤝 Connect with me:
 <a href="https://www.instagram.com/davidtorres07_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="David Torres | Instagram" width="21px"/></a>
