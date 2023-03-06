@@ -12,9 +12,11 @@ I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Bac
 </br>
 
 ## 🔭 I'm currently working on
-- Spring Boot full hexagonal application.
+- Spring Boot hexagonal backend application.
+- Flutter <-> Spring Boot full stack app.
 ## 🌱 I'm currently learning
 - Microservice's architecture.
+- Vue js.
 
 ## 💼 Technical Skills
 
