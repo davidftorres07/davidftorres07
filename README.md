@@ -15,7 +15,7 @@ I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Bac
 - Spring Boot hexagonal backend application.
 - Flutter-Spring Boot full stack app.
 ## 🌱 I'm currently learning
-- Microservice's architecture.
+- Microservice's architecture and DevOps technologies.
 - Vue js.
 
 ## 💼 Technical Skills
