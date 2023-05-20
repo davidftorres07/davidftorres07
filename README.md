@@ -12,7 +12,7 @@ I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Bac
 </br>
 
 ## 🔭 I'm currently working on
-- Spring Boot backend application.
+- Spring Boot & JavaFX full-stack application.
 ## 🌱 I'm currently learning
 - UNIX Advanced Bash Scripting.
 
