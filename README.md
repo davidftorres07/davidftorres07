@@ -1,4 +1,4 @@
-# David Torres:anchor:
+# David Torres
 
 I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Backend Developer ♨. I love to solve problems using different technologies and programing languages, specially for the health care system. 🧰💻
 
