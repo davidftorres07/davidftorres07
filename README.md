@@ -12,9 +12,9 @@ I'm David Torres, a Mexican citizen 🇲🇽, Biomedical Engineer ⚕️ and Bac
 </br>
 
 ## 🔭 I'm currently working on
-- UNIX mounted Pyhton and Java full hardware application.
+- Java Spring/UNIX full hardware application.
 ## 🌱 I'm currently learning
-- Flutter.
+- React JS.
 
 ## 💼 Technical Skills
 <h4>Programming Languages & Frameworks</h4>
